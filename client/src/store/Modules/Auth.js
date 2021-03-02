@@ -6,7 +6,7 @@ const state = {
     token: "",
     expireTime: "",
     user: null,
-    apiKey: "AIzaSyDo_zT8B9jnVB5jpUWm1dvgJwy8uDTg-cI"
+    apiKey: "KEY"
 
 }
 const getters = {
